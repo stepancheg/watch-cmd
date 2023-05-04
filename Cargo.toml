@@ -1,0 +1,9 @@
+[package]
+name = "watch-cmd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.71"
+chrono = "0.4.24"
+dirs = "5.0.1"
